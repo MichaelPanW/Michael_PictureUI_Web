@@ -1,0 +1,102 @@
+<!-- headerB start -->
+<link rel="shortcut icon" type="image/x-icon" href="__PUBLIC__/images/title_icon.ico"/>
+
+<link rel="stylesheet" href="__PUBLIC__/css/reset.css">
+<!--RWD設定--><!--電腦螢幕寬度1920px-1280px-->
+<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css" />
+<!--1280以下--><!--ipad 橫放/電腦螢幕-->
+<link href="__PUBLIC__/css/style-large.css" rel="stylesheet" type="text/css" media="screen and (min-width: 801px) and (max-width: 1279px)"  />
+<!--手機直立/手機橫放/ipad直立-->
+<link href="__PUBLIC__/css/style-small.css" rel="stylesheet" type="text/css" media="screen and (min-width: 0px) and (max-width: 800px)" />
+<!--跳出視窗用-->
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/jquery.fancybox.css?v=2.1.4" media="screen" />
+<!-- 頁碼 -->
+<link type="text/css" rel="stylesheet" href="__PUBLIC__/css/page.css"/>
+
+</head>
+
+<body>
+<div id="wrapper" none="true"><!--主背景框-->
+<header _height="none">
+  <div class="topnav">
+    <ul>
+      <if condition="$gloId neq ''">
+        <li><a href="{:U('Member/member_loginafter')}">會員管理</a></li>
+        <li>/</li>
+        <li><a href="{:U('Member/member_logout')}">登出</a></li>
+      <else />
+        <li><a href="{:U('Member/member_login')}">會員登入</a></li>
+        <li>/</li>
+        <li><a href="{:U('Member/member_register')}">註冊</a></li>
+      </if>
+
+      <li><a href="{:U('Shopping/shopping_info')}">購物流程</a></li>
+      <li><a href="{$fb_link}"><img src="__PUBLIC__/images/sns-fb.png"></a></li>
+      <li><a href="{$ig_link}"><img src="__PUBLIC__/images/sns-ig.png"></a></li>
+      <li><a href="{$line_link}"><img src="__PUBLIC__/images/sns-line.png"></a></li>
+      </ul>
+  </div>
+  
+  <div class="mainbav">
+    <div class="mainbav-area">
+      <div class="logo"><a href="{:U('Index/index')}"><img src="__PUBLIC__/images/logo.png"></a></div>
+      <span class="toggle"><img src="__PUBLIC__/images/menu-btn.svg"></span><!--小螢幕機菜單區-->
+      <!--RWD按鈕+遮罩背景--> 
+      <div class="menuBGH"></div>
+       
+      <nav class="Menu"> <!--菜單區-->
+        <ul class="drop-down-menu">
+        <li>
+          <a href="{:U('About/about')}" <if condition="$STAYNOW eq 'About'">class="list stayNow"<else />class="list"</if>>關於微美</a>
+          <ul>
+            <li><a href="{:U('About/about')}">成立起源</a></li>
+            <li><a href="{:U('About/about02')}">品牌故事</a></li>
+          </ul>
+        </li>
+        <li><a href="{:U('News/news')}" <eq name="STAYNOW" value="News">class="stayNow"</eq>>最新消息</a></li>
+        <li>
+          <a href="{:U('Coffee/coffee_list')}" <if condition="$STAYNOW eq 'Coffee'">class="list stayNow"<else />class="list"</if>>咖啡豆</a>
+          <ul>
+            {$header_menuA}
+          </ul>
+        
+        </li>
+        
+        <li>
+          <a href="{:U('Product/product_list')}" <if condition="$STAYNOW eq 'Product'">class="list stayNow"<else />class="list"</if>>周邊商品</a>
+          <ul>
+            {$header_menuB}
+          </ul>
+        </li>
+        
+        <li><a href="{:U('Service/service')}" <eq name="STAYNOW" value="Service">class="stayNow"</eq>>服務項目</a></li>
+        
+        <li><a href="{:U('Knowledge/knowledge')}" <eq name="STAYNOW" value="Knowledge">class="stayNow"</eq>>咖啡知識</a></li>
+        <li><a href="{:U('Contact/contact')}" <eq name="STAYNOW" value="Contact">class="stayNow"</eq>>聯絡微美</a></li>
+
+        <if condition="$gloId neq ''">
+		  <li class="rwd_menu"><a href="{:U('Shopping/shopping_info')}">購物流程</a></li>
+          <li class="rwd_menu"><a href="{:U('Member/member_loginafter')}">會員管理</a></li>
+          <li class="rwd_menu"><a href="{:U('Member/member_logout')}">登出</a></li>
+        <else />
+		  <li class="rwd_menu"><a href="{:U('Shopping/shopping_info')}">購物流程</a></li>
+          <li class="rwd_menu"><a href="{:U('Member/member_login')}">會員登入</a></li>
+          <li class="rwd_menu"><a href="{:U('Member/member_register')}">註冊</a></li>
+        </if>
+        </ul>   
+      </nav>
+      
+      <div class="search">
+        <form method="post" id="searchForm" action="{:U('Search/search')}">
+          <input class="w-into" type="text" name="search" placeholder="Search"/>
+          <div class="p-into"><a onclick="javascript:if($('input[name=search]').val()!=''){ $('#searchForm').submit();}"><img src="__PUBLIC__/images/search.png" alt="搜尋咖啡" title="搜尋豆子"/></a></div>
+        </form>
+      </div>
+      
+      <div class="cart"><a id="Bag" class="bagA" href="{:U('Shopping/shopping')}">0</a>購物車</div>
+      
+    </div>
+    
+  </div>
+</header>
+<!-- headerB end -->

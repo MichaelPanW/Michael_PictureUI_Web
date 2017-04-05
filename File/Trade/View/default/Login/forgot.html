@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>忘記密碼</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="__PUBLIC__/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css" />
+
+<script src="__PUBLIC__/js/jquery-1.10.2.min.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+function changeCaptcha(img) {
+  img.src = "/index.php?m=Join&a=verify&" + Math.random();
+}
+</script>
+
+</head>
+<body>
+<div class="slideA">
+  <div class="Main">
+    <div class="titleA">忘記密碼</div>
+    
+    <form action="{:U('Login/doForgot')}" method="post" onSubmit="javascript:if(($('.accountA').val()=='')||($('.t_inputA').val()=='')){alert('請先完成資料的填寫');return false;}">
+    <div class="tableMain"> 
+      <li>請輸入帳號:</li>
+      <li>
+        <input class="accountA" name="account" type="text" style="width:300px;">
+      </li>
+      <li>
+          <font color="#FF0000">*</font>驗&nbsp;証&nbsp;碼&nbsp;<input name="verifyCode" type="text" class="t_inputA" id="verifyCode" style="width:100px;margin-left:40%;" value="" maxlength="6" datatype="*" errmsg="此項必填" /><img src="/index.php?m=Contact&a=verify&" align="absmiddle" class="checkcode" onClick="changeCaptcha(this)" title="如果您無法識別驗證碼，請點圖片更換" id="verifyImage"/>
+      </li>
+      <li style="text-align:center; margin:20px 0;">
+      <input type="submit" value="確認"/>　<input type="reset" value="取消"/>
+      </li>
+    </div>
+    </form>
+    
+    <form action="{:U('Login/doForgot')}" method="post" onSubmit="javascript:if(($('.accountB').val()=='')||($('.t_inputB').val()=='')){alert('請先完成資料的填寫');return false;}">
+    <div class="tableBMain"> 
+      <li>請輸入帳號:</li>
+      <li>
+        <input class="accountB" name="account" type="text" style="width:300px;"/>
+      </li>
+      <li>
+          <font color="#FF0000">*</font>驗&nbsp;証&nbsp;碼&nbsp;<input name="verifyCode" type="text" class="t_inputB" id="verifyCode" style="width:100px;margin-left:40%;" value="" maxlength="6" datatype="*" errmsg="此項必填" /><img src="/index.php?m=Contact&a=verify&" align="absmiddle" class="checkcode" onClick="changeCaptcha(this)" title="如果您無法識別驗證碼，請點圖片更換" id="verifyImage"/>
+      </li>
+      <li style="text-align:center; margin:20px 0;">
+      <input type="submit" value="確認"/>　<input type="reset" value="取消"/>
+      </li>
+    </div>
+    </form>
+    
+    
+  </div>
+</div>
+</body>
+</html>

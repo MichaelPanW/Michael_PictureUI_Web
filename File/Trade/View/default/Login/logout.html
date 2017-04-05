@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>登出</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="__PUBLIC__/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="slideA">
+  <div class="Main">
+    <div class="titleA">　</div>
+    <form action="{:U('Login/doLogout')}" method="post">
+    <div class="tableMain">
+    
+      <!--1-->
+      <li style="font-size:24px; text-align:center">親愛的顧客</li>
+      <li style="font-size:24px; text-align:center">您確定要登出嗎？</li>
+      <!--1-->
+      <li style="text-align:center; margin:20px 0;">
+      <input type="submit" value="確認"/>　<input type="button" value="取消" onClick="goback()" />
+      </li>
+    
+    </div>
+    <!--手機用-->
+    <div class="tableBMain"> 
+      <!--1-->
+      <li style="font-size:24px; text-align:center">親愛的顧客</li>
+      <li style="font-size:24px; text-align:center">您確定要登出嗎？</li>
+      <!--1-->
+      <li style="text-align:center; margin:20px 0;">
+      <input type="submit" value="確認" />　<input type="button" value="取消" onClick="goback()" />
+      </li>
+    
+    </div>
+    
+    </form>
+  </div>
+</div>
+</body>
+
+<script type="text/javascript">
+function goback()
+{
+	try{
+        parent.jQuery.fancybox.close();
+    }catch(err){
+        parent.$('#fancybox-overlay').hide();
+        parent.$('#fancybox-wrap').hide();
+    }
+}
+</script>
+
+</html>

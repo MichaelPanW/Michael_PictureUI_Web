@@ -1,0 +1,355 @@
+@import url("reset.css");
+
+/* ================================ 原始設定================================ */
+*{
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: "微軟正黑體", Arial, Helvetica, sans-serif;
+	word-wrap: break-word;/*英文換行*/
+	word-break: normal;/*英文換行*/
+	overflow: hidden;
+	background:#aedafc;
+	background-color:#FFF;
+}
+
+#wrapper{
+	width:100%;
+	height:auto;
+	background-color:#FFF;
+	
+	position:relative;
+}
+
+.clear{
+	clear:both; /*消除用了 float 後造成的 div 無法自動判斷高度*/
+}
+
+@font-face{
+	font-family: SOSA;
+	src:url(../images/sosa.ttf);
+}
+
+/* 主要scroll */
+::-webkit-scrollbar {
+    width:5px;
+}
+::-webkit-scrollbar-track-piece {
+    background-color:rgba(204,204,204,1);
+    -webkit-border-radius:5px;
+}
+::-webkit-scrollbar-thumb {
+	width:3px;
+	background-color:rgba(153,153,153,1);
+}
+
+
+/* ================================頁首================================ */
+
+header{
+	width:100%;
+    position: absolute;
+	height: 25%;
+}
+header >.first_bar .title{
+	font-size:22pt;
+	line-height:30pt;
+	padding:0 0 0 10px;
+	float:left;
+}
+header >.first_bar .right_search{
+	float:right;
+	padding:10px 10px 0px 0;
+}
+header .right_search input{
+	background-repeat:no-repeat;
+    background-position-x: 95%;
+    background-position-y: 50%;
+	padding:0 0 0 5px;
+    height: 30px;
+}
+
+header>div{
+	width:100%;
+    position: relative;
+    float: left;
+}
+header .last_bar ul.option {
+	list-style: none;
+}
+header .last_bar .option li{
+	cursor: pointer;
+	text-align:center;
+	width:auto;
+	display : inline;
+	color:#fff;
+	height:100px;
+    float: left;
+}
+header .last_bar .option .control{
+	text-decoration:none;
+	color:#fff;
+}
+header .last_bar .option .title:hover{
+	background:#69bbfa;
+	background-repeat: no-repeat;
+	background-size:40px;
+    background-position: center 10px;
+	border-radius:10px;
+}
+header .last_bar .option .title{
+	margin:10px;
+    height: 80px;
+    width: 83px;
+    padding-top: 55px;
+    text-align: center;
+    font-size: 18px;
+	background-size:40px;
+    background-repeat: no-repeat;
+    background-position: center 10px;
+}
+header .path_bar *{
+	float:left;
+	margin-right:10px;
+	line-height:20px;
+}
+header .path_bar{
+	margin:0 0 0 1%;
+    bottom: 5px;
+	position: absolute;
+}
+header .path_bar .backbutton{
+	width:auto;
+	height:20px;
+}
+header .path_bar .path_content{
+	width:90%;
+	margin:0 1% 0 0%;
+	bottom:0;
+}
+.main #temp_space{
+	opacity:0;
+	display:none;
+}
+/* ================================主內容================================ */
+.main{
+	height:70%;
+	width:100%;
+	
+    position: absolute;
+	background:#fff;
+	overflow:auto;
+	top:25%;
+	
+	
+}
+.main input[name^=photo]{
+    position: absolute;
+    left: 0;
+    top: 0;
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+#upload_face{
+	width:100%;
+	height:100%;
+	background:rgba(174, 218, 252, 0.5);
+    position: absolute;
+    color: #fff;
+	line-height:300px;
+    text-align: center;
+    font-size: 200pt;
+	display:none;
+}
+
+.main .obj{
+	margin:10px;
+    height: 150px;
+    width: 150px;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 18px;
+	background-size:auto 80px;
+    background-repeat: no-repeat;
+    background-position: center 10px;
+	float:left;
+	border-radius:10px;
+    overflow: hidden;
+	color:#000;
+}
+.obj>.content{
+	display:none;
+}
+.main .obj:hover{
+	background:#69bbfa;
+	background-repeat: no-repeat;
+	background-size:auto 80px;
+    background-position: center 10px;
+	cursor: pointer;
+}
+.main .objlist{
+	margin:1px 0;
+    height: 20pt;
+    width: 100%;
+    text-align: left;
+    font-size: 18px;
+	padding-top:0;
+	padding-left:35px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    float: left;
+    border-radius: 0;
+    overflow: hidden;
+    color: #000;
+	border-bottom: 1px #cccccc solid;
+}
+
+.top{
+	background: #777;
+    color: #fff;
+	margin:1px 0;
+    height: 20pt;
+    width: 100%;
+    text-align: left;
+    font-size: 18px;
+	padding-top:0;
+	padding-left:35px;
+    float: left;
+	display:none;
+	line-height:20pt;
+}
+.main .top .file_name{
+	
+	width:30%;
+	float:left;
+
+}
+.main .top .content{
+	width:50%;
+	float:right;
+}
+.main .top .content p{
+	    position: absolute;
+}
+.main .top .content .tbsize{
+	right:300px;
+}
+.main .objlist .file_name{
+	
+	width:30%;
+	float:left;
+
+}
+.main .objlist .content{
+	width:50%;
+	float:right;
+}
+.main .objlist .content p{
+	    position: absolute;
+}
+.main .objlist .content .tbsize{
+	right:300px;
+}
+.main .objlist:hover{
+	background:#69bbfa;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+	cursor: pointer;
+}
+.main .objlist.choice{
+	background:#69bbfa;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+	
+}
+
+.choice{
+	background:#69bbfa;
+	background-repeat: no-repeat;
+	background-size:40px;
+    background-position: center 10px;
+}
+#fancydownload {
+    z-index: 9999;
+    position: fixed;
+    right: 100px;
+    bottom: 100px;
+	padding:10px;
+	cursor: pointer;
+}
+#fancydownload:hover{
+	background:#000;
+	background-repeat: no-repeat;
+	background-size:auto 80px;
+    background-position: center 10px;
+	border-radius:10px;
+}
+/* ================================ 頁尾版權區 ================================*/
+
+footer{
+	position: absolute;
+	bottom:0;
+	width:100%;
+	height:auto;
+	clear:both;
+	background-color:#ebebeb;
+	height: 5%;
+}
+
+.copyright{
+	width:1080px;
+	margin:0 auto;
+	text-align:center;
+	line-height:30px;
+}
+
+.copyright p{
+	color:#333;
+	font-size:13px;
+	line-height:30px;
+	
+	text-align:center;
+}
+.copyright a {
+	color: #333;
+	text-decoration: none;
+}
+#feedback { font-size: 1.4em; }
+
+#dropDIV .ui-selecting{
+	background: #69bbfa; 
+	background-repeat: no-repeat;
+	background-size:auto 80px;
+    background-position: center 10px;
+	cursor: pointer;
+}
+
+#dropDIV .ui-selecting.objlist{
+	background:#69bbfa;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+	
+}
+.ui-selectable-helper{
+	background:#000;
+	display:block;
+}

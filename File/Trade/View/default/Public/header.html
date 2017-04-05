@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+	
+	<head>
+		
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+		<meta charset="utf-8">
+		<!-- headerB start -->
+		<link rel="shortcut icon" type="image/x-icon" href="__PUBLIC__/images/folder.icon"/>
+		<title>檔案管理系統</title>
+		<link rel="stylesheet" href="__PUBLIC__/css/reset.css">
+		<link rel="stylesheet" href="__PUBLIC__/css/color.css">
+		<!--RWD設定--><!--電腦螢幕寬度1920px-1280px-->
+		<link href="__PUBLIC__/css/style.css" rel="stylesheet" type="text/css" />
+		<!--1280以下--><!--ipad 橫放/電腦螢幕-->
+		<link href="__PUBLIC__/css/style-large.css" rel="stylesheet" type="text/css" media="screen and (min-width: 801px) and (max-width: 1279px)"  />
+		<!--手機直立/手機橫放/ipad直立-->
+		<link href="__PUBLIC__/css/style-small.css" rel="stylesheet" type="text/css" media="screen and (min-width: 0px) and (max-width: 800px)" />
+	  	<!--彈跳窗css-->
+		<link rel="stylesheet" href="__PUBLIC__/css/reveal.css">	
+		<!--燈箱css-->
+		<link href="__PUBLIC__/css/jquery.fancybox.css?v=2.1.4" rel="stylesheet" type="text/css" media="screen" />
+		<!--右鍵目錄css-->
+		<link rel="stylesheet" href="__PUBLIC__/css/jquery.contextmenu.css">
+		
+	</head>
+	<body>
+		<header class="window_color">
+			<div class="first_bar">
+				<div class="title">
+					檔案管理員
+				</div>
+				<div class="right_search">
+				
+				<form method="get" action="{:U('Index/index')}">
+					<input type="text" name="search" placeholder="搜尋" style="background-image:url('__PUBLIC__/images/musica-searcher.png');" />
+				</form>
+				</div>
+			</div>
+			<div class="last_bar">
+				<ul class="option">
+					<li>
+						<a id="upload"><div class="title" style="background-image:url('__PUBLIC__/images/upload-to-cloud.png');" >上傳</div></a>
+					</li>
+					<li>
+						<a  id="download"><div class="title" style="background-image:url('__PUBLIC__/images/cloud-computing.png');" >下載</div></a>
+					</li>
+					<li>
+						<a id="newfold"><div class="title" style="background-image:url('__PUBLIC__/images/new-file.png');" >新資料夾</div></a>
+					</li>
+
+					<li>
+						<a id="delete"><div class="title" style="background-image:url('__PUBLIC__/images/rubbish-bin.png');" >刪除</div></a>
+					</li>
+					<li>
+						<a id="copy"><div class="title" style="background-image:url('__PUBLIC__/images/copy.png');" >複製</div></a>
+					</li>
+					<li>
+					<a id="move"><div class="title" style="background-image:url('__PUBLIC__/images/move.png');" >移動</div></a>
+					</li>
+					<li>
+					<a id="rename"><div class="title" style="background-image:url('__PUBLIC__/images/rename.png');" >重新命名</div></a>
+					</li>
+					<li>
+					<a id="window" num="9"><div class="title" style="background-image:url('__PUBLIC__/images/icon_picture.png');" >大圖示</div></a>
+					</li>
+					
+					
+				</ul>
+			</div>
+			<div class="path_bar">
+				<a href="/index.php/Index/index/parent/{$back}"><img src='__PUBLIC__/images/left-arrow.png' class="backbutton" /></a>
+				<p>目錄</p>
+				<input type="text" class="path_content" value="{$index}"  readonly="readonly" />
+				
+			</div>
+
+		</header>																																								

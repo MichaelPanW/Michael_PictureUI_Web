@@ -1,0 +1,1281 @@
+[ 2017-04-06T01:47:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2017-04-06T01:47:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2017-04-06T01:47:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2017-04-06T01:48:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2017-04-06T01:48:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2017-04-06T01:49:09+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php:11) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2017-04-06T01:49:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001277s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-06T01:50:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-06T01:52:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-06T01:53:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+NOTIC: [8] Undefined variable: message D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 46 行.
+NOTIC: [8] Undefined variable: back D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: dex D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: bufAry_A D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 49 行.
+NOTIC: [8] Undefined variable: parent D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 50 行.
+NOTIC: [8] Undefined variable: folder D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.135262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005972s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2017-04-06T01:53:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+NOTIC: [8] Undefined variable: message D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 46 行.
+NOTIC: [8] Undefined variable: back D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: dex D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: bufAry_A D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 49 行.
+NOTIC: [8] Undefined variable: parent D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 50 行.
+NOTIC: [8] Undefined variable: folder D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 51 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049926s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+
+[ 2017-04-06T01:53:56+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-06T01:54:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-06T01:54:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-06T01:54:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-06T01:59:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-04-06T02:02:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001258s ]
+ERR: 1146:Table 'photonic_erp.file' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `file`
+ERR: 1146:Table 'photonic_erp.file' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `file`
+
+[ 2017-04-06T02:03:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `file`  [ RunTime:0.0115s ]
+NOTIC: [8] Undefined variable: message D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: back D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Undefined variable: dex D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 49 行.
+NOTIC: [8] Undefined variable: bufAry_A D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 50 行.
+NOTIC: [8] Undefined variable: parent D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 51 行.
+NOTIC: [8] Undefined variable: folder D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 52 行.
+ERR: 模板不存在:./File/Trade/View/default/Index/index.html
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\ThinkPHP\Common\functions.php:850) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\ThinkPHP\Common\functions.php:850) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2017-04-06T02:03:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `file`  [ RunTime:0.0003s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+ERR: Think\Controller:circleindex方法不存在！
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\ThinkPHP\Common\functions.php:850) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\ThinkPHP\Common\functions.php:850) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2017-04-06T02:04:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `file`  [ RunTime:0.0003s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+ERR: Think\Controller:circleindex方法不存在！
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\ThinkPHP\Common\functions.php:850) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\ThinkPHP\Common\functions.php:850) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2017-04-06T02:04:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `file`  [ RunTime:0.0003s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0029s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and parent=1 ) ORDER BY type asc,create_time desc' at line 1
+ [ SQL语句 ] : SELECT * FROM `file` WHERE ( user_id= and parent=1 ) ORDER BY type asc,create_time desc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and parent=1 ) ORDER BY type asc,create_time desc' at line 1
+ [ SQL语句 ] : SELECT * FROM `file` WHERE ( user_id= and parent=1 ) ORDER BY type asc,create_time desc 
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\ThinkPHP\Common\functions.php:850) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\file.com\ThinkPHP\Common\functions.php:850) D:\xampp\htdocs\file.com\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2017-04-06T02:05:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0063s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0025s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and parent=1 ) ORDER BY type asc,create_time desc' at line 1
+ [ SQL语句 ] : SELECT * FROM `file` WHERE ( user_id= and parent=1 ) ORDER BY type asc,create_time desc 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and parent=1 ) ORDER BY type asc,create_time desc' at line 1
+ [ SQL语句 ] : SELECT * FROM `file` WHERE ( user_id= and parent=1 ) ORDER BY type asc,create_time desc 
+
+[ 2017-04-06T02:06:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+ERR: Class 'Trade\Controller\Session' not found
+
+[ 2017-04-06T02:06:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-04-06T02:06:29+08:00 ] 127.0.0.1 /index.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载控制器:Login
+
+[ 2017-04-06T02:07:54+08:00 ] 127.0.0.1 /index.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载控制器:Login
+
+[ 2017-04-06T02:08:25+08:00 ] 127.0.0.1 /index.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+ERR: 模板不存在:./File/Trade/View/default/Login/login.html
+
+[ 2017-04-06T02:09:36+08:00 ] 127.0.0.1 /index.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000753s ]
+
+[ 2017-04-06T02:09:56+08:00 ] 127.0.0.1 /index.php/Login/doLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `vip` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `vip` WHERE ( account="admin" ) LIMIT 1   [ RunTime:0.0180s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026928s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-04-06T02:10:00+08:00 ] 127.0.0.1 /index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010171s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010232s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001024s ]
+
+[ 2017-04-06T02:10:14+08:00 ] 127.0.0.1 /index.php/Login/doLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `vip` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `vip` WHERE ( account="root" ) LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Controller:cklevel方法不存在！
+
+[ 2017-04-06T02:10:59+08:00 ] 127.0.0.1 /index.php/Login/doLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+SQL: SHOW COLUMNS FROM `vip` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `vip` WHERE ( account="root" ) LIMIT 1   [ RunTime:0.0003s ]
+ERR: Think\Controller:cklevel方法不存在！
+
+[ 2017-04-06T02:12:42+08:00 ] 127.0.0.1 /index.php/Login/doLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `vip` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `vip` WHERE ( account="root" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004513s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000382s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000019s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001451s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000543s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000005s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001637s ]
+
+[ 2017-04-06T02:12:43+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001246s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome D:\xampp\htdocs\file.com\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: UPDATE `admin` SET `login_count`='1618' WHERE ( id=1 ) [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0042s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0023s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0003s ]
+SQL: DELETE FROM `file` WHERE ( id=124 ) [ RunTime:0.0689s ]
+SQL: DELETE FROM `file` WHERE ( id=125 ) [ RunTime:0.0344s ]
+SQL: DELETE FROM `file` WHERE ( id=126 ) [ RunTime:0.0416s ]
+SQL: DELETE FROM `file` WHERE ( id=127 ) [ RunTime:0.0580s ]
+SQL: DELETE FROM `file` WHERE ( id=128 ) [ RunTime:0.0578s ]
+SQL: DELETE FROM `file` WHERE ( id=123 ) [ RunTime:0.0397s ]
+SQL: DELETE FROM `file` WHERE ( id=113 ) [ RunTime:0.0500s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072296s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000568s ]
+
+[ 2017-04-06T02:13:00+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0041s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0022s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-04-06T02:13:24+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+ERR: Class 'Trade\Controller\Session' not found
+
+[ 2017-04-06T02:14:02+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0041s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+ERR: Class 'Trade\Controller\UploadFile' not found
+
+[ 2017-04-06T02:15:04+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0045s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: globalConfig D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 69 行.
+NOTIC: [2] mkdir(): No such file or directory D:\xampp\htdocs\file.com\ThinkPHP\Library\Org\Net\UploadFile.class.php 第 161 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 74 行.
+
+[ 2017-04-06T02:15:04+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0020s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0022s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-04-06T02:15:12+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0041s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: globalConfig D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 69 行.
+NOTIC: [2] mkdir(): No such file or directory D:\xampp\htdocs\file.com\ThinkPHP\Library\Org\Net\UploadFile.class.php 第 161 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 74 行.
+
+[ 2017-04-06T02:15:12+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0021s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-04-06T02:15:39+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0046s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0022s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044112s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-04-06T02:15:47+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0050s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0025s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044374s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2017-04-06T02:16:32+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0061s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0022s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000555s ]
+
+[ 2017-04-06T02:16:33+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001194s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0042s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0024s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2017-04-06T02:16:40+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0045s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0024s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045041s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-04-06T02:17:46+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0045s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0021s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046333s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046371s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2017-04-06T02:17:54+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0042s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: globalConfig D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 71 行.
+NOTIC: [2] mkdir(): No such file or directory D:\xampp\htdocs\file.com\ThinkPHP\Library\Org\Net\UploadFile.class.php 第 161 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 76 行.
+
+[ 2017-04-06T02:17:54+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0021s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0019s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2017-04-06T02:18:28+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0043s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044575s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-04-06T02:18:31+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000473s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0048s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: globalConfig D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 70 行.
+NOTIC: [2] mkdir(): No such file or directory D:\xampp\htdocs\file.com\ThinkPHP\Library\Org\Net\UploadFile.class.php 第 161 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 75 行.
+
+[ 2017-04-06T02:18:31+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0022s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047186s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-04-06T02:18:45+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0042s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2017-04-06T02:18:49+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: globalConfig D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 70 行.
+NOTIC: [2] mkdir(): No such file or directory D:\xampp\htdocs\file.com\ThinkPHP\Library\Org\Net\UploadFile.class.php 第 161 行.
+
+[ 2017-04-06T02:18:57+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0041s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: globalConfig D:\xampp\htdocs\file.com\File\Trade\Controller\IndexController.class.php 第 70 行.
+NOTIC: [2] mkdir(): No such file or directory D:\xampp\htdocs\file.com\ThinkPHP\Library\Org\Net\UploadFile.class.php 第 161 行.
+
+[ 2017-04-06T02:19:20+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0043s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): No such file or directory D:\xampp\htdocs\file.com\ThinkPHP\Library\Org\Net\UploadFile.class.php 第 161 行.
+
+[ 2017-04-06T02:19:47+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0045s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): No such file or directory D:\xampp\htdocs\file.com\ThinkPHP\Library\Org\Net\UploadFile.class.php 第 161 行.
+
+[ 2017-04-06T02:19:52+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0059s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): No such file or directory D:\xampp\htdocs\file.com\ThinkPHP\Library\Org\Net\UploadFile.class.php 第 161 行.
+
+[ 2017-04-06T02:20:46+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): No such file or directory D:\xampp\htdocs\file.com\ThinkPHP\Library\Org\Net\UploadFile.class.php 第 161 行.
+
+[ 2017-04-06T02:21:29+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0039s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+
+[ 2017-04-06T02:21:39+08:00 ] 127.0.0.1 /index.php/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0039s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-04-06T02:21:55+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0037s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+ERR: Call to undefined function Trade\Controller\formatAttachPath()
+
+[ 2017-04-06T02:23:16+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0044s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+
+[ 2017-04-06T02:23:33+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0093s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+ERR: Call to undefined function Trade\Controller\splitThumb()
+
+[ 2017-04-06T02:23:51+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0044s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: INSERT INTO `file` (`path`,`path_htumb`,`create_time`,`name`,`user_id`,`parent`,`type`,`size`,`extension`) VALUES ('./Uploads/Files/5/58e536373070d.png','./Uploads/Files/5/58e536373070d.png','1491416631','logo','5','1','1','37271','png') [ RunTime:0.0631s ]
+
+[ 2017-04-06T02:23:51+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0023s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' D:\xampp\htdocs\file.com\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\xampp\htdocs\file.com\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044721s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-04-06T02:24:51+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `admin` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0047s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' D:\xampp\htdocs\file.com\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\xampp\htdocs\file.com\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047465s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2017-04-06T02:26:23+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+ERR: 1146:Table 'picture_control.admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `admin`
+ERR: 1146:Table 'picture_control.admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `admin`
+
+[ 2017-04-06T02:26:50+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0064s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' D:\xampp\htdocs\file.com\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\xampp\htdocs\file.com\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049900s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-04-06T02:26:54+08:00 ] 127.0.0.1 /index.php/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0063s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: INSERT INTO `file` (`path`,`path_htumb`,`create_time`,`name`,`user_id`,`parent`,`type`,`size`,`extension`) VALUES ('./Uploads/Files/5/58e536eecacee.PNG','./Uploads/Files/5/58e536eecacee.PNG','1491416814','IMG_0231','5','1','1','1588584','PNG') [ RunTime:0.0479s ]
+
+[ 2017-04-06T02:26:54+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' D:\xampp\htdocs\file.com\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0028s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' D:\xampp\htdocs\file.com\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\xampp\htdocs\file.com\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' D:\xampp\htdocs\file.com\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\xampp\htdocs\file.com\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046518s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
