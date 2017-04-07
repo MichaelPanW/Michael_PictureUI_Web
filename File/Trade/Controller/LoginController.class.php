@@ -37,7 +37,7 @@ class LoginController extends Controller {
 			Session('vipFb', $acBuf[0]['fb_count']);
 			
 			$this->assign('jumpUrl', U('Index/index'));
-			$gretting = array('看到您真好''好久不見', '又見到你了', '安安');
+			$gretting = array('看到您真好','好久不見', '又見到你了', '安安');
 
 			$this->success('親愛的 '. $acBuf[0]['name'] .' , '.$gretting[rand(0,4)]);
 			

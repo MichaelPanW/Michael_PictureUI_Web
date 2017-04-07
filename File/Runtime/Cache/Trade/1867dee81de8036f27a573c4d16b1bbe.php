@@ -186,7 +186,7 @@
 	}
 	
 </script>
-<!-- footer start -->
+<!-- footer start 
 <footer _height="none" class="window_color">
 	
 	<div class="copyright">
@@ -194,7 +194,7 @@
 	</div>
 </footer>
 
-
+-->
 
 </body>
 <script type="text/javascript" src="/Public/File/js/jquery-1.12.4.min.js"></script>

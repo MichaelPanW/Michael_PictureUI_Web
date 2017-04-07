@@ -50,7 +50,7 @@
 <footer _height="none" class="window_color">
 	
 	<div class="copyright">
-		傳訊光科技股份有限公司 版權所有 Copyrightc2012 All Rights Reserved . Designed by PHOTNIC<?=date('Y',time())?>  
+		潘嶧德 版權所有 Copyrightc2012 All Rights Reserved . Designed by Michael <?=date('Y',time())?>  
 	</div>
 </footer>
 

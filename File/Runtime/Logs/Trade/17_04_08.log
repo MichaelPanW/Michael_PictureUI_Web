@@ -1,0 +1,1990 @@
+[ 2017-04-08T02:26:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000950s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002119s ]
+
+[ 2017-04-08T02:26:32+08:00 ] 127.0.0.1 /index.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001770s ]
+
+[ 2017-04-08T02:27:27+08:00 ] 127.0.0.1 /index.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001800s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043186s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002055s ]
+
+[ 2017-04-08T02:27:34+08:00 ] 127.0.0.1 /index.php/Login/doLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001880s ]
+SQL: SHOW COLUMNS FROM `vip` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `vip` WHERE ( account="test" ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001571s ]
+
+[ 2017-04-08T02:27:37+08:00 ] 127.0.0.1 /index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002047s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002927s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002995s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003245s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003335s ]
+
+[ 2017-04-08T02:27:41+08:00 ] 127.0.0.1 /index.php/Login/doLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002054s ]
+SQL: SHOW COLUMNS FROM `vip` [ RunTime:0.0143s ]
+SQL: SELECT * FROM `vip` WHERE ( account="admin" ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012227s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002053s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002113s ]
+
+[ 2017-04-08T02:27:44+08:00 ] 127.0.0.1 /index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001954s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013222s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001690s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001731s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001871s ]
+
+[ 2017-04-08T02:27:47+08:00 ] 127.0.0.1 /index.php/Login/doLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+SQL: SHOW COLUMNS FROM `vip` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `vip` WHERE ( account="root" ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002396s ]
+
+[ 2017-04-08T02:27:49+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002256s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0190s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109023s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001921s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001974s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002207s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002257s ]
+
+[ 2017-04-08T02:33:09+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0124s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.105637s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.105713s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-04-08T02:33:41+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001381s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0153s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000221s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108095s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001225s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001272s ]
+
+[ 2017-04-08T02:35:12+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002424s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0220s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.135749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.135829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000950s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2017-04-08T02:36:20+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001708s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0172s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000237s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.131621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131702s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001198s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001505s ]
+
+[ 2017-04-08T02:36:34+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0131s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.112795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.112883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001239s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001428s ]
+
+[ 2017-04-08T02:36:43+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001579s ]
+
+[ 2017-04-08T02:36:44+08:00 ] 127.0.0.1 /index.php/login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031463s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031523s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000997s ]
+
+[ 2017-04-08T02:36:51+08:00 ] 127.0.0.1 /index.php/Login/doLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001478s ]
+SQL: SHOW COLUMNS FROM `vip` [ RunTime:0.0184s ]
+SQL: SELECT * FROM `vip` WHERE ( account="root" ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034547s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001258s ]
+
+[ 2017-04-08T02:36:52+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001029s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0194s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.097580s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.097634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000994s ]
+
+[ 2017-04-08T02:37:38+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0154s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107533s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000940s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001024s ]
+
+[ 2017-04-08T02:38:07+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001348s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0136s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000231s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.100753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100811s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000939s ]
+
+[ 2017-04-08T02:39:02+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0151s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.095436s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.095506s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001129s ]
+
+[ 2017-04-08T02:39:11+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0207s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.093007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093061s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000893s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2017-04-08T02:39:21+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001451s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0196s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.093753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093807s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000951s ]
+
+[ 2017-04-08T02:39:29+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0205s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.115026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.115084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000982s ]
+
+[ 2017-04-08T02:39:42+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001283s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0151s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000987s ]
+
+[ 2017-04-08T02:40:37+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001538s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0126s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.131357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131428s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001376s ]
+
+[ 2017-04-08T02:41:24+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0190s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125542s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001311s ]
+
+[ 2017-04-08T02:47:13+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001219s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0149s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.117676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.117739s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000960s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001006s ]
+
+[ 2017-04-08T02:50:32+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0196s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113728s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000966s ]
+
+[ 2017-04-08T02:50:57+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0173s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.132714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.132782s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001020s ]
+
+[ 2017-04-08T02:56:12+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0170s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.111862s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111925s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000794s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2017-04-08T02:59:11+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001721s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0139s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.103249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.103313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001097s ]
+
+[ 2017-04-08T03:01:29+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0226s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109212s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000919s ]
+
+[ 2017-04-08T03:01:58+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0222s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.106736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000988s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001047s ]
+
+[ 2017-04-08T03:03:27+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001320s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0150s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.114515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114585s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001217s ]
+
+[ 2017-04-08T03:06:49+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001799s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0199s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.162354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.162455s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001862s ]
+
+[ 2017-04-08T03:07:21+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0158s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000160s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113123s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000964s ]
+
+[ 2017-04-08T03:07:30+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001369s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0144s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000158s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002020s ]
+
+[ 2017-04-08T03:07:42+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0147s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000225s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000325s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118874s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001071s ]
+
+[ 2017-04-08T03:08:36+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0213s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000160s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.105873s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.105948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001130s ]
+
+[ 2017-04-08T03:08:42+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001271s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0140s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000259s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.114968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.115058s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001534s ]
+
+[ 2017-04-08T03:09:03+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001487s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0156s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000160s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001161s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001212s ]
+
+[ 2017-04-08T03:09:26+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0188s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.098489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098558s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001082s ]
+
+[ 2017-04-08T03:09:39+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0146s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.101232s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101299s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000979s ]
+
+[ 2017-04-08T03:09:48+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0136s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102796s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102853s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001094s ]
+
+[ 2017-04-08T03:09:55+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001138s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0192s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099070s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001185s ]
+
+[ 2017-04-08T03:10:25+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0137s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.100947s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101013s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2017-04-08T03:11:45+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0192s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108398s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000919s ]
+
+[ 2017-04-08T03:12:52+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0200s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.104134s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.104210s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000995s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001196s ]
+
+[ 2017-04-08T03:13:57+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0193s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.106349s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000767s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001037s ]
+
+[ 2017-04-08T03:14:54+08:00 ] 127.0.0.1 /index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001531s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0197s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099727s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000810s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000980s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001030s ]
+
+[ 2017-04-08T03:14:57+08:00 ] 127.0.0.1 /index.php/Index/index.html?search=l
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0215s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and (name like '%l%' or extension = 'l') ) ORDER BY type asc,create_time desc  [ RunTime:0.0007s ]
+SQL: DELETE FROM `file` WHERE ( id=78 ) [ RunTime:0.0033s ]
+SQL: DELETE FROM `file` WHERE ( id=77 ) [ RunTime:0.0019s ]
+SQL: DELETE FROM `file` WHERE ( id=75 ) [ RunTime:0.0018s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type=0 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.094465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.094544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2017-04-08T03:15:01+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001407s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0216s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.092621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001362s ]
+
+[ 2017-04-08T03:15:50+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0179s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107960s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000901s ]
+
+[ 2017-04-08T03:19:41+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0216s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107094s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001107s ]
+
+[ 2017-04-08T03:19:59+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0226s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.115415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.115485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001149s ]
+
+[ 2017-04-08T03:20:11+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0173s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000249s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113690s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113810s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001374s ]
+
+[ 2017-04-08T03:22:29+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001239s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0193s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099879s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000939s ]
+
+[ 2017-04-08T03:22:44+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0223s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.142440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.142523s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000975s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001025s ]
+
+[ 2017-04-08T03:22:54+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0229s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000237s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125436s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001161s ]
+
+[ 2017-04-08T03:23:25+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0149s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102486s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001096s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001161s ]
+
+[ 2017-04-08T03:23:30+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0159s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129132s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129211s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001247s ]
+
+[ 2017-04-08T03:23:36+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0240s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.141285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.141375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001452s ]
+
+[ 2017-04-08T03:23:52+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0222s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.134349s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.134420s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001381s ]
+
+[ 2017-04-08T03:26:08+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001495s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0205s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102380s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102443s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000969s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001018s ]
+
+[ 2017-04-08T03:26:37+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0220s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.103022s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.103086s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001074s ]
+
+[ 2017-04-08T03:27:24+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0125s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.097036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.097090s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000926s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2017-04-08T03:30:44+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0208s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0005s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102233s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2017-04-08T03:31:38+08:00 ] 127.0.0.1 /index.php/Index/index/parent/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8] Use of undefined constant TMPL_PARSE_STRING - assumed 'TMPL_PARSE_STRING' C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001399s ]
+NOTIC: [8] Undefined index: 127_0_0_1isCome C:\xampp\htdocs\Michael_PictureUI_Web\File\Trade\Controller\GlobalController.class.php 第 27 行.
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0218s ]
+SQL: SELECT `parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0004s ]
+SQL: SELECT `id`,`name`,`parent` FROM `file` WHERE ( id=1 )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and parent=1 ) ORDER BY type asc,create_time desc  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE ( user_id=5 and type='0' and (parent=1 or id=1) ) ORDER BY type asc,create_time desc  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+NOTIC: [8] Use of undefined constant type - assumed 'type' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 102 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' C:\xampp\htdocs\Michael_PictureUI_Web\File\Runtime\Cache\Trade\1867dee81de8036f27a573c4d16b1bbe.php 第 108 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.121143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121236s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001317s ]
+

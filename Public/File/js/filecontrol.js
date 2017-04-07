@@ -73,13 +73,13 @@ $(document).ready(function() {
 		var num=parseInt($(this).attr('num'))+1;
 		if(num>2)num=1;
 		if (num==1){
-			$(this).children('.title').css('background-image','url(/Public/Customer/images/list.png)');
+			$(this).children('.title').css('background-image','url(/Public/File/images/list.png)');
 			$(this).children('.title').html('清單');
 			$('.obj').addClass('objlist');
 			$('.obj .content').css('display','block');
 			$('.top').css('display','block');
 			}else{
-			$(this).children('.title').css('background-image','url(/Public/Customer/images/icon_picture.png)');
+			$(this).children('.title').css('background-image','url(/Public/File/images/icon_picture.png)');
 			$(this).children('.title').html('大圖示');
 			$('.objlist').removeClass('objlist');
 			$('.obj .content').css('display','none');
@@ -145,7 +145,7 @@ $(document).ready(function() {
 	});
 	//選完檔案後上傳
 	$(document).on('change','#inputfile',function(){
-		var file = this.files[0]; //定義file=發生改的file
+		var file = this.File[0]; //定義file=發生改的file
 		
 		type = file.type; //type=檔案型態
 		if(file.type != 'image/png' && file.type != 'image/jpg'
@@ -181,7 +181,7 @@ $(document).ready(function() {
 	//雙擊檔案
 	$('#dropDIV .file').dblclick(function(){
 		$(this).parent('a').click();
-		$('.fancybox-wrap').append('<img src="/Public/Customer/images/download-arrow.png" id="fancydownload" />');
+		$('.fancybox-wrap').append('<img src="/Public/File/images/download-arrow.png" id="fancydownload" />');
 	});
 	//點擊燈箱下載紐
 	$(document).on('click','#fancydownload',function(event){
@@ -247,7 +247,7 @@ $(document).ready(function() {
 	
 	//換圖時換下載連結
 	$(document).on('click','.fancybox-nav',function(event){
-		$('.fancybox-wrap').append('<img src="/Public/Customer/images/download-arrow.png" id="fancydownload" />');
+		$('.fancybox-wrap').append('<img src="/Public/File/images/download-arrow.png" id="fancydownload" />');
 	});
 	$('#upload_face').hover(function(){
 		$(this).css('display','none');
@@ -259,13 +259,13 @@ $(document).ready(function() {
 		
 		items: [
 			
-			{label:'下載',icon:'/Public/Customer/images/cloud-computing.png',action:function(){$('#download').click();}},
-			{label:'刪除',icon:'/Public/Customer/images/rubbish-bin.png',action:function(){$('#delete').click();}},
-			{label:'複製',icon:'/Public/Customer/images/copy.png',action:function(){$('#copy').click();}},
-			{label:'移動',icon:'/Public/Customer/images/move.png',action:function(){$('#move').click();}},
-			{label:'全選',icon:'/Public/Customer/images/folder-icon.png',action:function(){$('.obj').addClass('choice');}},
-			{label:'重新命名',icon:'/Public/Customer/images/rename.png',action:function(){$('#rename').click();}},
-			{label:'重新整理',icon:'/Public/Customer/images/rename.png',action:function(){javascript:window.location.reload();}}
+			{label:'下載',icon:'/Public/File/images/cloud-computing.png',action:function(){$('#download').click();}},
+			{label:'刪除',icon:'/Public/File/images/rubbish-bin.png',action:function(){$('#delete').click();}},
+			{label:'複製',icon:'/Public/File/images/copy.png',action:function(){$('#copy').click();}},
+			{label:'移動',icon:'/Public/File/images/move.png',action:function(){$('#move').click();}},
+			{label:'全選',icon:'/Public/File/images/folder-icon.png',action:function(){$('.obj').addClass('choice');}},
+			{label:'重新命名',icon:'/Public/File/images/rename.png',action:function(){$('#rename').click();}},
+			{label:'重新整理',icon:'/Public/File/images/rename.png',action:function(){javascript:window.location.reload();}}
 		]
 	});
 });
